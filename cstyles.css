@@ -1,0 +1,9 @@
+body{
+   background-image: url(https://thumbs.dreamstime.com/b/businessman-using-cloud-computing-connect-big-data-global-network-connection-service-networking-storage-technology-dark-154741779.jpg);
+   background-size: cover;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: #fff;
+     opacity: .9;
+}

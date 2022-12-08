@@ -1,0 +1,9 @@
+body{
+   background-image: url(https://img.freepik.com/premium-photo/developer-python-java-script-html-css-source-code-monitor-screen-writing-script-software-developer-program-coding-programmer-editing-code-background-technology-background-close-up-shot_234527-68.jpg?w=2000);
+   background-size: cover;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: #fff;
+     opacity: .9;
+}

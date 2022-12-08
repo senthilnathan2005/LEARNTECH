@@ -1,0 +1,79 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+}
+body{
+     background-image: url(https://c4.wallpaperflare.com/wallpaper/587/270/473/black-and-white-blur-gray-iphone-wallpaper-thumb.jpg);
+     background-size: cover;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: #fff;
+     opacity: .9;
+}
+
+.register-here{
+      width: 25rem;
+      height: 28rem;
+      display: flex;
+      flex-direction: row;
+      background: rgba(255,255,255,0.06);
+      box-shadow: 0 8px 32px 0 rgba(31,38,135,.37);
+      border-radius: 30px;
+      border-left: 1px solid rgba(255,255,255,.3);
+      border-top: 1px solid rgba(255,255,255,.3);
+}
+
+ h1 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    text-shadow: 4px 2px 4px rgba(0,0,0,2);
+    letter-spacing: 3px;
+    margin-left: 20%;
+    opacity: .7;
+}
+
+p {
+   font-size: 20px;
+   color: white;
+   margin-left: 10%;
+   opacity: .8;
+   text-shadow: 2px 2px 4px rgba(0,0,0,2);
+}
+
+input{
+   width: 50%;
+   margin: 5%auto;
+   margin-bottom: 5%;
+   border: none;
+   outline: none;
+   background: white;
+   color: rgba(255,255,255);
+   border-bottom: 1px solid rgba(255,255,255,.8);
+ }
+    
+button{
+   width: 50%;
+   margin: 3%auto;
+   color: black;
+   font-size: 30px;
+   opacity: .150;
+   padding: 10px 30px;
+   outline: none;
+   border:  none;
+   border-radius: 20px;
+   text-shadow: 2px 2px 4px rgba(255,255,255,0);
+   box-shadow: 3px 3px 5px rgba(31,38,135,.0);
+   border-left: 1px solid rgba(255,255,255,.0);
+   border-top: 1px solid rgba(255,255,255,.0);
+}
+a{
+   font-size: 12px;
+   text-align: center;
+   color: white;
+   opacity: .10;
+}
+
+      
